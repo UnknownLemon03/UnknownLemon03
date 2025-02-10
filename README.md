@@ -21,6 +21,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="width: 50px; height: 50px; " alt="react Icon">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" style="width: 50px; height: 50px; " alt="redux Icon">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" style="width: 50px; height: 50px; " alt="redis Icon">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" style="width: 50px; height: 50px; " alt="redis Icon">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" style="width: 50px; height: 50px; " alt="nextjs Icon">
 <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" style="width: 50px; height: 50px; " alt="JWT Icon">
 </div>
