@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### About Me 
-I'm a Web Developer
+I'm a Software Developer
 
 I enjoy learning different frameworks and languages & working on solo projects.
 
