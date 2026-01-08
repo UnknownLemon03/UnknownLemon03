@@ -25,6 +25,8 @@ I enjoy learning different frameworks and languages & working on solo projects.
 
 ### Tools i have worked with 
 <div style="display:flex;">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" style="width: 50px; height: 50px; " alt="aws Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" style="width: 50px; height: 50px; " alt="bootstrap Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" style="width: 50px; height: 50px; " alt="tailwind Icon"> &nbsp;
