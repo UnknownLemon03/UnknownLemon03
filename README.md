@@ -46,7 +46,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" style="width: 50px; height: 50px; " alt="postgre Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" style="width: 50px; height: 50px; " alt="mysql Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" style="width: 50px; height: 50px; " alt="redis Icon"> &nbsp;
-
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
 </div>
 
 ### Profiles 
