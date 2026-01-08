@@ -4,7 +4,7 @@
 I'm a Software Developer
 
 I enjoy learning different frameworks and languages & working on solo projects.
-### Language 
+#### Language 
 <div style="display:flex;">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" style="width: 50px; height: 50px; " alt="js Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" style="width: 50px; height: 50px; " alt="ts Icon"> &nbsp;
@@ -15,7 +15,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 </div>
 
 
-### Frameworks i have worked with 
+#### Frameworks i have worked with 
 <div style="display:flex;">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" style="width: 50px; height: 50px; " alt="aws Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" style="width: 50px; height: 50px; " alt="nextjs Icon"> &nbsp;
@@ -23,7 +23,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" style="width: 50px; " alt="redis Icon"> &nbsp;
 </div>
 
-### Tools i have worked with 
+#### Tools i have worked with 
 <div style="display:flex;">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
@@ -40,7 +40,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
 </div>
 
-### Databases 
+#### Databases 
 <div style="display:flex;">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" style="width: 50px; height: 50px; " alt="mongodb Icon"> &nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" style="width: 50px; height: 50px; " alt="postgre Icon"> &nbsp;
@@ -49,7 +49,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" style="width: 50px; height: 50px; " alt="JWT Icon"> &nbsp;
 </div>
 
-### Profiles 
+#### Profiles 
 <div style="display:flex;">
 <a href="https://codeforces.com/profile/Unknown_Lemon" target="_blank" rel="noopener noreferrer"> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" style="width: 50px; height: 50px; " alt="Leetcode Icon">  
