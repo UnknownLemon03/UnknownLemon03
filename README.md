@@ -9,7 +9,7 @@ I enjoy learning different frameworks and languages & working on solo projects.
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" style="width: 50px; height: 50px; " alt="js Icon">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" style="width: 50px; height: 50px; " alt="ts Icon">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" style="width: 50px; height: 50px; " alt="go Icon">
-
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" style="width: 50px; height: 50px; " alt="C++ Icon">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" style="width: 50px; height: 50px; " alt="C++ Icon">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" style="width: 50px; height: 50px; " alt="java Icon">
 </div>
